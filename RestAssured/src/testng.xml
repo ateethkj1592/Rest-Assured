@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rest Assured Test Suite">
+    <test name="Booking Api test">
+        <classes>
+            <class name="herokuapp.createBookingTest" />
+            <class name="herokuapp.getBookingIdsTests" />
+            <class name="herokuapp.updateBookingTest"/>
+            <class name="herokuapp.deleteBookingTest"/>
+            <class name="herokuapp.createMultipleBookingTest"/>
+            <!-- Add more test classes as needed -->
+        </classes>
+    </test>
+</suite>

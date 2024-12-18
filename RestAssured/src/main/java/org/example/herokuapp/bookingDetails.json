@@ -1,0 +1,11 @@
+{
+  "firstname": "Ateeth",
+  "lastname": "K J",
+  "totalprice": 150,
+  "depositpaid": false,
+  "bookingdates": {
+    "checkin": "2024-03-25",
+    "checkout": "2024-03-27"
+  },
+  "additionalneeds": "Baby Crib"
+}
